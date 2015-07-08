@@ -1,5 +1,5 @@
 {
-  "name": "ms",
+  "name": "algolia-ms",
   "version": "0.7.1-fix-future-reserved-words",
   "description": "Tiny ms conversion utility",
   "repository": {
